@@ -367,7 +367,7 @@ input::placeholder {
     width: 100%;
 }
 
-.brands--impuls{
+.brands__impuls{
     padding: 35px 60px;
     background-color: var(--primary-color);
 }
