@@ -295,22 +295,22 @@ input::placeholder {
     background-color: var(--accent-color);
 }
 
-.info__subscribe--text{
+.info__subscribe-text{
     margin: 35px 0 35px 40px;
 }
 
-.info__subscribe--name{
+.info__subscribe-name{
     font-size: var(--title-font-sm);
     color: var(--primary-color);
 }
 
-.info__subscribe--description{
+.info__subscribe-description{
     margin: 25px 0;
     width: 130px;
     color: var(--primary-color);
 }
 
-.info__subscribe--photo {
+.info__subscribe-photo {
     align-content: center;
     margin-left: 90px;
 }
@@ -322,22 +322,22 @@ input::placeholder {
     background-color: var(--accent-color);
 }
 
-.info__our-shops--text{
+.info__our-shops-text{
     margin: 35px 0 35px 40px;
 }
 
-.info__our-shops--name{
+.info__our-shops-name{
     font-size: var(--title-font-sm);
     color: var(--primary-color);
 }
 
-.info__our-shops--description{
+.info__our-shops-description{
     margin: 25px 0;
     width: 130px;
     color: var(--primary-color);
 }
 
-.info__our-shops--photo{
+.info__our-shops-photo{
     align-content: center;
     margin-left: 90px;
 }
